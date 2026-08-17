@@ -2,7 +2,7 @@
 
 # ADITIA TRADEPRENEUR
 
-### 🚀 Entrepreneur | Trader | Developer
+### 🚀 Entrepreneur | Trader | Outlook Maker
 
 [![GitHub followers](https://img.shields.io/github/followers/1234ditiya-pixel?label=Follow&style=social)](https://github.com/1234ditiya-pixel?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/1234ditiya-pixel?style=social)](https://github.com/1234ditiya-pixel?tab=repositories)
@@ -16,12 +16,12 @@
 ### 📊 Tentang Saya
 
 <p align="center">
-  <i>"Turning Ideas into profitable Business"</i>
+  <i>"Turning Ideas into Profitable Business"</i>
 </p>
 
 - 🔥 Passionate di bidang **Trading & Entrepreneurship**
+- 💼 **Businessman** yang berfokus pada pertumbuhan dan inovasi
 - 💡 Selalu belajar hal baru dan mengembangkan diri
-- 🎯 Fokus pada **inovasi** dan **pertumbuhan bisnis**
 - 📈 Analisis data untuk pengambilan keputusan strategis
 
 ---
@@ -46,8 +46,7 @@
 <p align="center">
 
 ![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
-![MetaTrader](https://img.shields.io/badge/MetaTrader-2A2A2A?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![MetaTrader5](https://img.shields.io/badge/MetaTrader5-43B02A?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 </p>
 
@@ -74,8 +73,8 @@
 <p align="center">
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:1234ditiya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/1234ditiya-pixel)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/1234ditiya-pixel)
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@aditianrc_)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aditianrc)
 
 </p>
 
